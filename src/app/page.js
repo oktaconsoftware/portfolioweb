@@ -180,7 +180,9 @@ export default function Page() {
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-5 py-3.5 sm:px-8">
 
           <a href="#home" className="flex shrink-0 items-center gap-3">
-           
+            <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-[#3182ce] text-sm font-extrabold text-white shadow-lg shadow-blue-600/20">
+              OC
+            </div>
 
             <div>
               <p className="text-sm font-extrabold tracking-wide text-slate-900">
